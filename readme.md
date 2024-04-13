@@ -26,14 +26,14 @@ ProjectName and Description
   <p align="center">
     一个"完美的"README模板去快速开始你的项目！
     <br />
-    <a href="https://github.com/wutcriminal/go-cqhttp-springboot3"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/wutcriminal/go-cqhttp-springboot3">查看Demo</a>
+    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
     ·
-    <a href="https://github.com/wutcriminal/go-cqhttp-springboot3/issues">报告Bug</a>
+    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
     ·
-    <a href="https://github.com/wutcriminal/go-cqhttp-springboot3/issues">提出新特性</a>
+    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
   </p>
 
 </p>
@@ -161,17 +161,17 @@ xxx@xxxx
 - [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
 
 <!-- links -->
-[your-project-path]:wutcriminal/go-cqhttp-springboot3
-[contributors-shield]: https://img.shields.io/github/contributors/wutcriminal/go-cqhttp-springboot3.svg?style=flat-square
-[contributors-url]: https://github.com/wutcriminal/go-cqhttp-springboot3/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wutcriminal/go-cqhttp-springboot3.svg?style=flat-square
-[forks-url]: https://github.com/wutcriminal/go-cqhttp-springboot3/network/members
-[stars-shield]: https://img.shields.io/github/stars/wutcriminal/go-cqhttp-springboot3.svg?style=flat-square
-[stars-url]: https://github.com/wutcriminal/go-cqhttp-springboot3/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wutcriminal/go-cqhttp-springboot3.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/wutcriminal/go-cqhttp-springboot3.svg
-[license-shield]: https://img.shields.io/github/license/wutcriminal/go-cqhttp-springboot3.svg?style=flat-square
-[license-url]: https://github.com/wutcriminal/go-cqhttp-springboot3/blob/master/LICENSE.txt
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
+[contributors-url]: https://github.com/shaojintian/Best_README_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
+[forks-url]: https://github.com/shaojintian/Best_README_template/network/members
+[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
+[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
 
