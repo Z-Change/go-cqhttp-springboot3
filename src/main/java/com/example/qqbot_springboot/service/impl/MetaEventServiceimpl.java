@@ -9,6 +9,6 @@ public class MetaEventServiceimpl implements MetaEventService {
     @Override
     public void metarvent(JSONObject json) {
 
-        System.out.println(json);
+        //System.out.println(json);
     }
 }
