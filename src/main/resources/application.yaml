@@ -1,0 +1,2 @@
+spring.application.name=QQBOT_SpringBoot
+server.port=33794

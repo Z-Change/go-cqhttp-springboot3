@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: QQBOT_SpringBoot
+
+server:
+  port: 33794
+  servlet:
+    encoding:
+      force: true
+      charset: utf-8
+      enabled: true
+  tomcat:
+    uri-encoding: utf-8
+
+
+botowner: "1668139313"
