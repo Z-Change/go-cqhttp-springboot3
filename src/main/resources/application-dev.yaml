@@ -2,6 +2,7 @@ spring:
   application:
     name: QQBOT_SpringBoot
 
+
 server:
   port: 33794
   servlet:
@@ -26,3 +27,4 @@ ep:
   pmsg: "send_private_msg"
   get_img: "get_image"
   ocr: "ocr_image"
+
