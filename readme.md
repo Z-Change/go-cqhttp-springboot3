@@ -1,2 +1,2 @@
 # go-cqhttp-springboot3
-[×ÔÓÃ] springboot3´î½¨µÄgo-cqhttp·şÎñÆ÷
+[è‡ªç”¨] springboot3æ­å»ºçš„go-cqhttpæœåŠ¡å™¨
