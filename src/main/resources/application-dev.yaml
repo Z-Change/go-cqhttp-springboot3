@@ -13,4 +13,16 @@ server:
     uri-encoding: utf-8
 
 
-botowner: "1668139313"
+admins:
+  botowner: "1668139313"
+  admins:
+    - "1668139313"
+    - "2953781424"
+on_command: "~"
+
+ep:
+  url: "http://127.0.0.1:33793/"
+  gmsg: "send_group_msg"
+  pmsg: "send_private_msg"
+  get_img: "get_image"
+  ocr: "ocr_image"

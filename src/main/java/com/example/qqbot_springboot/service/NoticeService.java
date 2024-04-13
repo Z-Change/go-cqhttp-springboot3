@@ -1,2 +1,7 @@
-package com.example.qqbot_springboot.service;public interface NoticeService {
+package com.example.qqbot_springboot.service;
+
+import org.springframework.stereotype.Service;
+
+
+public interface NoticeService {
 }

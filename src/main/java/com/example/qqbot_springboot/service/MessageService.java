@@ -1,5 +1,9 @@
-package com.example.qqbot_springboot.service.impl;
+package com.example.qqbot_springboot.service;
+
+import com.alibaba.fastjson.JSONObject;
+
 
 public interface MessageService {
-    public void send_private_msg();
+
+    void msg_respond(JSONObject json);
 }
